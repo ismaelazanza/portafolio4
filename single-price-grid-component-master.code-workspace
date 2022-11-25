@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "single-price-grid-component-master",
+			"path": "../single-price-grid-component-master"
+		},
+		{
+			"name": "huddle-landing-page-with-alternating-feature-blocks-master",
+			"path": "../huddle-landing-page-with-alternating-feature-blocks-master"
+		},
+		{
+			"path": "../fylo-data-storage-component-master"
+		},
+		{
+			"path": "../radio10"
+		},
+		{
+			"path": "../clipboard-landing-page-master"
+		},
+		{
+			"path": "../Practicas Grid/Practicas 1"
+		},
+		{
+			"path": "../news-homepage-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chat-app-css-illustration-master"
+	}
+}
